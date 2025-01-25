@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cypress": "^14.0.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Assignment": "npx cypress run --spec ./cypress/e2e/Assignment/"
+  }
+}
